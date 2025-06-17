@@ -1,12 +1,7 @@
-
-# OverTheWire CTF - Writeups 🇧🇷
-
-
 ![](![image](https://github.com/user-attachments/assets/e3770df2-9041-4758-a119-f0e356ccc4ad)
 )
 
-
-
+# OverTheWire CTF - Writeups 🇧🇷
 
 Este repositório contém minhas resoluções dos desafios da plataforma (https://overthewire.org/wargames/),voltado pra documentar meu aprendizado e progresso nos CTFs da OverTheWire, com soluções e explicações.
 
