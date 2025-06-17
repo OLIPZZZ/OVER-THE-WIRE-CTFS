@@ -2,7 +2,7 @@
 
 ![wmremove-transformed](https://github.com/user-attachments/assets/beec20eb-06b4-4767-8e6d-e018f903850a)
 
-Este repositório contém minhas resoluções dos desafios da plataforma (https://overthewire.org/wargames/),voltado pra documentar meu aprendizado e progresso nos CTFs da OverTheWire, com soluções e explicações.
+Este repositório contém minhas resoluções dos desafios da plataforma (https://overthewire.org/wargames/), voltado pra documentar meu aprendizado e progresso nos CTFs da OverTheWire, com soluções e explicações.
 
 ---
 
