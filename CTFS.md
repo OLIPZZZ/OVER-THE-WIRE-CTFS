@@ -1,5 +1,5 @@
-![](![image](https://github.com/user-attachments/assets/e3770df2-9041-4758-a119-f0e356ccc4ad)
-)
+(![image](https://github.com/user-attachments/assets/16a4e13e-ac13-4d84-8a6f-bca6dfa2b26a)
+
 
 # OverTheWire CTF - Writeups 🇧🇷
 
