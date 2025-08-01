@@ -19,3 +19,5 @@ Documentar minha evolução e o processo de resolução de cada Capture The Flag
 -   **Segurança Web:** Exploração de vulnerabilidades em aplicações web (OWASP Top 10, etc.).
 
 ---
+
+---
