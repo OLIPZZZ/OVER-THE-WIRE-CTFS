@@ -5,8 +5,8 @@
 | Nível       | Status          | Descrição                                 | Solução                                                                    |
 |-------------|-----------------|-------------------------------------------|----------------------------------------------------------------------------|
 | Bandit 0    | ✅ Concluído    | Acessando o servidor via SSH              | Conectar via SSH ao `bandit.labs.overthewire.org` na porta 22 com o usuário `bandit0` e a senha `bandit0`. |
-| Bandit 1    | ✅ Concluído    | Lendo arquivos simples no Linux           | A senha está no arquivo `readme` no diretório home. Use `cat readme`.        |
-| Bandit 2    | ✅ Concluído    | Permissões básicas e arquivos escondidos  | A senha está em um arquivo chamado `-` no diretório home. Use `cat ./-` ou `cat < ./-`. |
+| Bandit 1    | ✅ Concluído    | Lendo arquivos simples no Linux           | A senha está no arquivo `readme` no diretório home. Use `cat readme` senha = ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If .        |
+| Bandit 2    | ✅ Concluído    | Permissões básicas e arquivos escondidos  | A senha está em um arquivo chamado `-` no diretório home. Use `cat ./-` ou `cat < ./-`. senha =  |
 | Bandit 3    | ✅ Concluído    | Espaços em nomes de arquivos              | A senha está em um arquivo chamado `spaces in this filename`. Use `cat "spaces in this filename"` ou `cat spaces\ in\ this\ filename`. |
 | Bandit 4    | ✅ Concluído    | Encontrando arquivos específicos          | A senha está no único arquivo legível por humanos no diretório `inhere`. Use `find . -type f -readable -size 33c`. |
 | Bandit 5    | ✅ Concluído    | Encontrando arquivos legíveis, não-executáveis e com 1033 bytes | A senha está no único arquivo legível por humanos, com 1033 bytes e não executável no diretório `inhere`. Use `find inhere -type f -size 1033c ! -executable`. |
