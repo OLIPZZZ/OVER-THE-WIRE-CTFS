@@ -20,4 +20,4 @@
 | Bandit 13   | 🔄 Em andamento | SSH Keys para o próximo nível             | A senha do próximo nível está no arquivo `sshkey.private` no diretório home. Use `ssh -i sshkey.private bandit14@localhost`. |
 | Bandit 14   | ⏳ Em breve     | ...                                       | ...                                                                        |
 
----
+--
