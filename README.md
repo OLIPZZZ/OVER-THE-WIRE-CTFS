@@ -17,6 +17,4 @@ Documentar minha evolução e o processo de resolução de cada Capture The Flag
 -   **Análise de Binários e Engenharia Reversa:** Compreensão do funcionamento interno de programas.
 -   **Criptografia:** Desafios envolvendo cifragem e decifragem de dados.
 -   **Segurança Web:** Exploração de vulnerabilidades em aplicações web (OWASP Top 10, etc.).
-
-
 ---
